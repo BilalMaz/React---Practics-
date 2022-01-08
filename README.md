@@ -1,1 +1,1 @@
-# React---Practics-
+# ReacrPractics
